@@ -51,7 +51,7 @@ a:hover{
 	min-height: 500px;
 	padding: 4px;
 	background-size:cover;
-	background: url(D:/Users/ADMIN/Desktop/wolf.jpg) no-repeat center center fixed;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUd0gD-PDoTs-V94BP2NPCZ9sOcR2ZIUBKg&usqp=CAU) no-repeat center center fixed;
 }
 
 #wrapper header > div{
@@ -85,7 +85,7 @@ a:hover{
 }
 
 #home{
-	background-image: url(D:/Users/ADMIN/Downloads/istockphoto-1181315370-1024x1024.jpg);
+	background-image: url(https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg);
 }
 
 #about{
@@ -98,7 +98,7 @@ a:hover{
 }
 
 #contact{
-	background-image: url(D:/Users/ADMIN/Downloads/istockphoto-1181315370-1024x1024.jpg);
+	background-image: url(https://t4.ftcdn.net/jpg/05/18/77/63/360_F_518776302_XZQkgR5kuSZyuchfvOT2jT0dhvj3E7BB.jpg);
 }
 
 #contact form{
